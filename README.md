@@ -1,7 +1,7 @@
 # Python para Finanças
 Repositório para Armazenamento das Atividades do Curso.
 
-Neste curso você tive uma visão  **teórica e principalmente prática passo a passo sobre os principais conceitos de Finanças e Investimentos, bem como a implementação na linguagem de programação Python e aplicações de Machine Learning (Aprendizagem de Máquina) em bases de dados financeiras**. Os diferenciais deste curso é  utilizar bases de dados de empresas brasileiras extraídas da Bolsa de Valores de São Paulo (BOVESPA), bem como a resolução de exercícios em todas as seções. Desta forma, pude praticar imediatamente após aprender os conceitos! O conteúdo está dividido em duas partes: na primeira, os conceitos básicos de finanças e na segunda parte, aplicar machine learning em bases de dados com informações financeiras. Configura abaixo alguns dos tópicos que você aprendi:
+Neste curso tive uma visão  **teórica e principalmente prática passo a passo sobre os principais conceitos de Finanças e Investimentos, bem como a implementação na linguagem de programação Python e aplicações de Machine Learning (Aprendizagem de Máquina) em bases de dados financeiras**. Os diferenciais deste curso é  utilizar bases de dados de empresas brasileiras extraídas da Bolsa de Valores de São Paulo (BOVESPA), bem como a resolução de exercícios em todas as seções. Desta forma, pude praticar imediatamente após aprender os conceitos! O conteúdo está dividido em duas partes: na primeira, os conceitos básicos de finanças e na segunda parte, aplicar machine learning em bases de dados com informações financeiras. Configura abaixo alguns dos tópicos que aprendi:
 
 -   Extração de bases de dados financeiras da Internet
     
